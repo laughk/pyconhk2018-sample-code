@@ -1,3 +1,7 @@
 # get from https://my.slack.com/apps/A0F7YS25R-bots
 API_TOKEN='xoxb-**********-************-************************'
 DEFAULT_REPLY = 'Hi :raising_hand: I\'m Slackbot'
+
+PLUGINS = [
+    'plugin',
+]
