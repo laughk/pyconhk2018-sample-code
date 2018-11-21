@@ -4,6 +4,10 @@ DEFAULT_REPLY = 'Hi :raising_hand: I\'m Slackbot'
 
 PLUGINS = [
     'plugin',
+    'aws_plugin',
 ]
 
 OPENWEATHERMAP_APPID = '********************************'
+
+AWS_ACCESS_KEY = 'set your `aws_access_key_id` described in ~/.aws/credential'
+AWS_SECRET_KEY = 'set your `aws_secret_access_key` described in ~/.aws/credits.'
