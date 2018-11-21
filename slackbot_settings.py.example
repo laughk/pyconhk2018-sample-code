@@ -5,3 +5,5 @@ DEFAULT_REPLY = 'Hi :raising_hand: I\'m Slackbot'
 PLUGINS = [
     'plugin',
 ]
+
+OPENWEATHERMAP_APPID = '********************************'
